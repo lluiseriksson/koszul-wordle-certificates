@@ -1,0 +1,25 @@
+{
+  "schema": "KOSZUL-WORDLE-CERT-1.0",
+  "mode": "multicolor_wordle_dim_count_exact",
+  "name": "mode2_wordle_n3_s111",
+  "s_vec": [
+    1,
+    1,
+    1
+  ],
+  "max_d": 4,
+  "claimed_gf_coeffs": [
+    1,
+    4,
+    1
+  ],
+  "claimed_cumul_dims": [
+    1,
+    5,
+    6,
+    6,
+    6
+  ],
+  "claimed_sat_deg": 2,
+  "claimed_total_colored_perms": 6
+}

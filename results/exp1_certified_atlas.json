@@ -1,0 +1,305 @@
+{
+  "experiment": "exp1_certified_atlas",
+  "count": 16,
+  "rows": [
+    {
+      "file": "koszul_exact_n3_m3_s111.cert.json",
+      "mode": "koszul_filtered_exactness_exact",
+      "verify_ms": 6.059,
+      "summary": {
+        "verified": true,
+        "mode": "koszul_filtered_exactness_exact",
+        "N": 3,
+        "M": 3,
+        "b": [
+          2,
+          2,
+          2
+        ],
+        "grade_dims": [
+          27,
+          24,
+          3,
+          0
+        ],
+        "quotient_dim": 6
+      }
+    },
+    {
+      "file": "koszul_exact_n2_m2_s32.cert.json",
+      "mode": "koszul_filtered_exactness_exact",
+      "verify_ms": 0.793,
+      "summary": {
+        "verified": true,
+        "mode": "koszul_filtered_exactness_exact",
+        "N": 2,
+        "M": 2,
+        "b": [
+          4,
+          4
+        ],
+        "grade_dims": [
+          25,
+          13,
+          0
+        ],
+        "quotient_dim": 12
+      }
+    },
+    {
+      "file": "koszul_exact_n3_m2_gapfree.cert.json",
+      "mode": "koszul_filtered_exactness_exact",
+      "verify_ms": 1.778,
+      "summary": {
+        "verified": true,
+        "mode": "koszul_filtered_exactness_exact",
+        "N": 3,
+        "M": 2,
+        "b": [
+          2,
+          3,
+          2
+        ],
+        "grade_dims": [
+          36,
+          14,
+          0
+        ],
+        "quotient_dim": 22
+      }
+    },
+    {
+      "file": "koszul_exact_n2_m2_s22_gapfree.cert.json",
+      "mode": "koszul_filtered_exactness_exact",
+      "verify_ms": 0.579,
+      "summary": {
+        "verified": true,
+        "mode": "koszul_filtered_exactness_exact",
+        "N": 2,
+        "M": 2,
+        "b": [
+          3,
+          4
+        ],
+        "grade_dims": [
+          20,
+          12,
+          0
+        ],
+        "quotient_dim": 8
+      }
+    },
+    {
+      "file": "wordle_dim_n3_s111.cert.json",
+      "mode": "multicolor_wordle_dim_count_exact",
+      "verify_ms": 0.063,
+      "summary": {
+        "verified": true,
+        "mode": "multicolor_wordle_dim_count_exact",
+        "n": 3,
+        "s_vec": [
+          1,
+          1,
+          1
+        ],
+        "sat_deg": 2,
+        "total_colored_perms": 6
+      }
+    },
+    {
+      "file": "wordle_dim_n2_s32.cert.json",
+      "mode": "multicolor_wordle_dim_count_exact",
+      "verify_ms": 0.05,
+      "summary": {
+        "verified": true,
+        "mode": "multicolor_wordle_dim_count_exact",
+        "n": 2,
+        "s_vec": [
+          3,
+          2
+        ],
+        "sat_deg": 4,
+        "total_colored_perms": 12
+      }
+    },
+    {
+      "file": "wordle_dim_n4_s1111.cert.json",
+      "mode": "multicolor_wordle_dim_count_exact",
+      "verify_ms": 0.091,
+      "summary": {
+        "verified": true,
+        "mode": "multicolor_wordle_dim_count_exact",
+        "n": 4,
+        "s_vec": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "sat_deg": 3,
+        "total_colored_perms": 24
+      }
+    },
+    {
+      "file": "wordle_dim_n3_s223.cert.json",
+      "mode": "multicolor_wordle_dim_count_exact",
+      "verify_ms": 0.082,
+      "summary": {
+        "verified": true,
+        "mode": "multicolor_wordle_dim_count_exact",
+        "n": 3,
+        "s_vec": [
+          2,
+          2,
+          3
+        ],
+        "sat_deg": 6,
+        "total_colored_perms": 72
+      }
+    },
+    {
+      "file": "fail_remarkA1_s11_b02.cert.json",
+      "mode": "gap_free_strictness_failure_exact",
+      "verify_ms": 0.238,
+      "summary": {
+        "verified": true,
+        "mode": "gap_free_strictness_failure_exact",
+        "N": 2,
+        "M": 2,
+        "b": [
+          0,
+          2
+        ],
+        "dim_R_b": 3,
+        "dim_F1_b": 0,
+        "w_dot_Z": "2"
+      }
+    },
+    {
+      "file": "fail_remarkA1_s11_b20.cert.json",
+      "mode": "gap_free_strictness_failure_exact",
+      "verify_ms": 0.231,
+      "summary": {
+        "verified": true,
+        "mode": "gap_free_strictness_failure_exact",
+        "N": 2,
+        "M": 2,
+        "b": [
+          2,
+          0
+        ],
+        "dim_R_b": 3,
+        "dim_F1_b": 0,
+        "w_dot_Z": "6"
+      }
+    },
+    {
+      "file": "fail_remarkA1_s22_b24.cert.json",
+      "mode": "gap_free_strictness_failure_exact",
+      "verify_ms": 0.37,
+      "summary": {
+        "verified": true,
+        "mode": "gap_free_strictness_failure_exact",
+        "N": 2,
+        "M": 2,
+        "b": [
+          2,
+          4
+        ],
+        "dim_R_b": 15,
+        "dim_F1_b": 6,
+        "w_dot_Z": "12"
+      }
+    },
+    {
+      "file": "fail_remarkA1_n3_b022.cert.json",
+      "mode": "gap_free_strictness_failure_exact",
+      "verify_ms": 0.455,
+      "summary": {
+        "verified": true,
+        "mode": "gap_free_strictness_failure_exact",
+        "N": 3,
+        "M": 2,
+        "b": [
+          0,
+          2,
+          2
+        ],
+        "dim_R_b": 9,
+        "dim_F1_b": 0,
+        "w_dot_Z": "4"
+      }
+    },
+    {
+      "file": "eval_rank_n3_s111_d1.cert.json",
+      "mode": "zero_set_eval_rank_exact",
+      "verify_ms": 0.39,
+      "summary": {
+        "verified": true,
+        "mode": "zero_set_eval_rank_exact",
+        "n": 3,
+        "s_vec": [
+          1,
+          1,
+          1
+        ],
+        "d": 1,
+        "num_points": 6,
+        "eval_rank": 5
+      }
+    },
+    {
+      "file": "eval_rank_n2_s22_d2.cert.json",
+      "mode": "zero_set_eval_rank_exact",
+      "verify_ms": 0.505,
+      "summary": {
+        "verified": true,
+        "mode": "zero_set_eval_rank_exact",
+        "n": 2,
+        "s_vec": [
+          2,
+          2
+        ],
+        "d": 2,
+        "num_points": 8,
+        "eval_rank": 7
+      }
+    },
+    {
+      "file": "eval_rank_n3_s212_d2.cert.json",
+      "mode": "zero_set_eval_rank_exact",
+      "verify_ms": 7.838,
+      "summary": {
+        "verified": true,
+        "mode": "zero_set_eval_rank_exact",
+        "n": 3,
+        "s_vec": [
+          2,
+          1,
+          2
+        ],
+        "d": 2,
+        "num_points": 24,
+        "eval_rank": 17
+      }
+    },
+    {
+      "file": "eval_rank_n3_s222_d3.cert.json",
+      "mode": "zero_set_eval_rank_exact",
+      "verify_ms": 66.087,
+      "summary": {
+        "verified": true,
+        "mode": "zero_set_eval_rank_exact",
+        "n": 3,
+        "s_vec": [
+          2,
+          2,
+          2
+        ],
+        "d": 3,
+        "num_points": 48,
+        "eval_rank": 40
+      }
+    }
+  ]
+}

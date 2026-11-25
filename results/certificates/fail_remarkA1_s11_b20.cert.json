@@ -1,0 +1,81 @@
+{
+  "schema": "KOSZUL-WORDLE-CERT-1.0",
+  "mode": "gap_free_strictness_failure_exact",
+  "name": "mode3_remarkA1_s11_b20",
+  "N": 2,
+  "M": 2,
+  "s_vec": [
+    1,
+    1
+  ],
+  "v_vec": [
+    "1",
+    "3"
+  ],
+  "multidegree_b": [
+    2,
+    0
+  ],
+  "ideal_multipliers_A": [
+    [
+      [
+        [
+          0,
+          0
+        ],
+        "-3"
+      ],
+      [
+        [
+          1,
+          0
+        ],
+        "1"
+      ]
+    ],
+    [
+      [
+        [
+          0,
+          0
+        ],
+        "1"
+      ],
+      [
+        [
+          1,
+          0
+        ],
+        "-1"
+      ]
+    ]
+  ],
+  "witness_Z": [
+    [
+      [
+        0,
+        0
+      ],
+      "6"
+    ],
+    [
+      [
+        1,
+        0
+      ],
+      "-8"
+    ],
+    [
+      [
+        2,
+        0
+      ],
+      "2"
+    ]
+  ],
+  "dual_functional_w": [
+    "1",
+    "0",
+    "0"
+  ]
+}

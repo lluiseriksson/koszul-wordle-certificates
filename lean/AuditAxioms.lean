@@ -1,0 +1,20 @@
+import KoszulWordle
+
+#print axioms KoszulWordle.koszul_d2_square_zero
+#print axioms KoszulWordle.koszul_d3_square_zero
+#print axioms KoszulWordle.koszul_filtration_preserved_by_diff
+#print axioms KoszulWordle.koszul_exactness_euler_char_2
+#print axioms KoszulWordle.koszul_exactness_euler_char_3
+#print axioms KoszulWordle.koszul_exactness_euler_char_list
+#print axioms KoszulWordle.filtered_rn_dim_zero_if_neg
+#print axioms KoszulWordle.eulerian_number_table_exact
+#print axioms KoszulWordle.worpitzky_cumul_n3_exact
+#print axioms KoszulWordle.multicolor_dim_n2_s32_exact
+#print axioms KoszulWordle.saturation_degree_formula
+#print axioms KoszulWordle.zero_set_cardinality_uniform
+#print axioms KoszulWordle.remark_A1_s11_counterexample_identity
+#print axioms KoszulWordle.remark_A1_s22_counterexample_identity
+#print axioms KoszulWordle.remark_A1_even_vs_odd_obstruction
+#print axioms KoszulWordle.gap_free_uniform_multidegree
+#print axioms KoszulWordle.gap_free_shifted_invariant
+#print axioms KoszulWordle.feasible_history_dim_bound

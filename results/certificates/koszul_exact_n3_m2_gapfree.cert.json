@@ -1,0 +1,30 @@
+{
+  "schema": "KOSZUL-WORDLE-CERT-1.0",
+  "mode": "koszul_filtered_exactness_exact",
+  "name": "mode1_koszul_n3_m2_gapfree",
+  "N": 3,
+  "M": 2,
+  "s_vec": [
+    2,
+    1
+  ],
+  "v_vec": [
+    "1",
+    "2"
+  ],
+  "multidegree_b": [
+    2,
+    3,
+    2
+  ],
+  "claimed_grade_dims": [
+    36,
+    14,
+    0
+  ],
+  "claimed_diff_ranks": [
+    14,
+    0
+  ],
+  "claimed_quotient_dim": 22
+}

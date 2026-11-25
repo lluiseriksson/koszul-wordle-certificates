@@ -1,0 +1,41 @@
+{
+  "experiment": "exp4_eval_rank_sweep",
+  "num_points": 24,
+  "rows": [
+    {
+      "d": 0,
+      "ambient_dim": 1,
+      "eval_rank": 1,
+      "koszul_dim": 1,
+      "match": true
+    },
+    {
+      "d": 1,
+      "ambient_dim": 8,
+      "eval_rank": 7,
+      "koszul_dim": 7,
+      "match": true
+    },
+    {
+      "d": 2,
+      "ambient_dim": 27,
+      "eval_rank": 17,
+      "koszul_dim": 17,
+      "match": true
+    },
+    {
+      "d": 3,
+      "ambient_dim": 64,
+      "eval_rank": 23,
+      "koszul_dim": 23,
+      "match": true
+    },
+    {
+      "d": 4,
+      "ambient_dim": 125,
+      "eval_rank": 24,
+      "koszul_dim": 24,
+      "match": true
+    }
+  ]
+}

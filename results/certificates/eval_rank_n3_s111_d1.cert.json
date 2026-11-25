@@ -1,0 +1,18 @@
+{
+  "schema": "KOSZUL-WORDLE-CERT-1.0",
+  "mode": "zero_set_eval_rank_exact",
+  "name": "mode4_eval_n3_s111_d1",
+  "s_vec": [
+    1,
+    1,
+    1
+  ],
+  "v_vec": [
+    "1",
+    "2",
+    "3"
+  ],
+  "max_degree_d": 1,
+  "claimed_num_points": 6,
+  "claimed_eval_rank": 5
+}

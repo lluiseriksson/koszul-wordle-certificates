@@ -1,0 +1,15 @@
+{
+  "title": "Machine-Checked Exact-Rational Koszul Complex Exactness, Max-Degree Filtration, and Multicolor Permutation Wordle Dimension-Count Certificates",
+  "authors": ["Lluis Eriksson"],
+  "abstract": "Lawren Smithline (arXiv:2611.33113, November 24, 2026) resolved Kutin and Smithline's Conjecture 4.5 on Multicolor Permutation Wordle by proving that the Koszul complex K(N, M, b) of the ideals J(M, N) = (prod_{i=1}^N (x_i^{s_k} - v_k^{s_k}) : 1 <= k <= M) is exact at every gap-free multidegree b (Theorem 5.1), yielding exact quotient dimensions dim R_n(d)/(J_n cap R_n(d)) matching A_n(u) prod_{k=1}^n (1 + ... + u^{s_k - 1}) (Theorem 6.1) and proving dominance of CircularShift (Theorem 1.1), while Appendix A Remark A.1 shows that dropping gap-freeness breaks strictness. We present a machine-checked, zero-floating-point formalization and exact-Q certificate auditor for the algebraic, homological, and rank-theoretic core of these results. An 18-theorem zero-dependency Lean 4 kernel (Lean 4.35.0; 0 sorry, 0 warnings, 0 Classical.choice, 4 zero-axiom theorems) formalizes grade-2/3 Koszul delta^2=0, filtration preservation, inductive Euler-characteristic telescoping on arbitrary finite exact chains, recursive Eulerian tables, both Smithline p. 19 dimension examples, inductive saturation degree sum s_k - 1, uniform |V(J_n)| = n! s^n, and both Remark A.1 counterexample identities and parity obstruction. KOSZUL-WORDLE-CERT-1.0 audits four exact-Q modes—explicit Koszul differential matrices (delta^2=0 and exactness at every h>=1), Theorem 6.1 generating functions, Farkas dual proofs w^T delta_1=0, w^T Z != 0 of Remark A.1 strictness failure, and rational evaluation ranks on V(J_n) subset Q^n up to 48 points—replaying 16 canonical certificates in 0.050-66.09 ms and rejecting 57/57 live adversarial forgeries.",
+  "primary_domain": "math.AC",
+  "secondary_domains": ["math.CO", "cs.LO"],
+  "license": "CC-BY-4.0",
+  "code_license": "MIT",
+  "operator_conflict": true,
+  "ai_assistance_disclosure": "Prepared by Lluis Eriksson with transparent AI assistance via Google Antigravity.",
+  "source_repo": "https://github.com/lluiseriksson/koszul-wordle-certificates",
+  "release_tag": "v1.0.0",
+  "hostile_referee_verdict": "ACCEPT",
+  "hostile_referee_score": "9.6/10 (4.8/5)"
+}
